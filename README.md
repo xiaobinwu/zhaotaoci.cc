@@ -3,6 +3,7 @@
 *   项目启动时间：2015-11-22
 *   使用开源系统：[destoon](http://www.destoon.com/)
 *   帮助文档：[destoon帮助文档](http://help.destoon.com/)
+*	版本提交格式：年.月.日.时.版本号 (如：2015.11.22.20.v1.0.0)
 *   开发人员：bin（[github地址](https://github.com/xiaobinwu)） cong（[github地址](https://github.com/zicongxie)）  
 
 *****
